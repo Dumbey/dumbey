@@ -1,4 +1,9 @@
 ## Hi there 👋
+I am Uriah Shane Rios. I am pursuing a Bachelor of Science in Entertainment and Multimedia Computing at the University of Mindanao. 
+
+I am currently working on to be a professional game developer in Unity.
+
+I am currently learning C# and other programming languages from scratch.
 
 <!--
 **Dumbey/dumbey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
